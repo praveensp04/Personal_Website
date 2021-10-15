@@ -908,9 +908,12 @@ section {
 }
 
 .container ul li a i {
-    color: rgb(0 67 255);
-    font-size: 25px;
-}
+    color: #222222;
+    background-color: #54f3e09c;
+    border-radius: 49%;
+    padding: 12px;
+    font-size: 28px;
+}}
 
 .contact .info h4 {
     padding: 0 0 0 60px;
