@@ -905,6 +905,7 @@ section {
     display: flex;
     justify-content: center;
     margin-top: 35px;
+    mardin-left: -9%;
 }
 
 .container ul li a i {
